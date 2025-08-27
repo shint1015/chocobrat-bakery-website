@@ -268,6 +268,92 @@ h1, h2, h3 {
 }
 .btn-secondary3{
     padding-left: 3px;
-    background-color: transparent;
-    
+    background-color: transparent;    
+}
+
+.order-above-1kg-section h2 {
+    color: #4A1D1F;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #4A1D1F;
+}
+
+.quotes {
+    background: #FBEDCD;
+    color: #4A1D1F;
+    width: 4%;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: -6.5rem;
+    border-radius: 1rem;
+    font-size: 10px;
+    padding: 0.1rem;
+    font-weight: bold;
+}
+
+.quote-icon {
+    z-index: -999;
+}
+
+.quote-img.left {
+    position: relative;
+    left: 385px;
+    top: 105px;
+}
+
+.quote-img {
+    z-index: -999;
+}
+.quote-img.right {
+    position: relative;
+    top: 210px;
+    left: 815px;
+}
+
+.quote-img.right img {
+    transform: scale(-1, -1);
+}
+
+
+.quote-text {
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.author-info {
+    text-align: center;
+}
+p.author-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+p.author-title {
+    margin: 0;
+    font-size: 14px;
+}
+section.testimonial-section {
+    padding: 3rem 0;
+}
+
+p.author-area {
+    color: #FBEDCD;
+    font-size: 30px;
+    margin: 0;
+}
+
+p.author-area span.target-author {
+    color: #272727;
 }
