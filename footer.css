@@ -24,14 +24,14 @@ footer.footer {
     font-family: Poppins;
 }
 
-nav.nav {
+.footer nav.nav {
     display: flex;
     justify-content: space-between;
     width: 70%;
     align-items: center;
 }
 
-.nav a {
+.footer .nav a {
     color: #272727;
     text-decoration: none;
 }
